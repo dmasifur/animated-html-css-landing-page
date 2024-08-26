@@ -4,4 +4,6 @@
 
 <https://dmasifur.github.io/animated-html-css-landing-page>
 
-[Landing Page](https://imgur.com/w80AwLX)
+
+[Landing Page](i.imgur.com/w80AwLX.png)
+
