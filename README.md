@@ -5,5 +5,5 @@
 <https://dmasifur.github.io/animated-html-css-landing-page>
 
 
-[Landing Page](i.imgur.com/w80AwLX.png)
+![Landing Page](https://i.imgur.com/w80AwLX.png)
 
